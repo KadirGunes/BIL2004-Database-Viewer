@@ -20,6 +20,7 @@ namespace SQL_FORM
         {
             InitializeComponent();
             SelectTable.Visible = false;
+            dataGridView1.ReadOnly = true;
         }
 
         private void Connect_Click(object sender, EventArgs e)
