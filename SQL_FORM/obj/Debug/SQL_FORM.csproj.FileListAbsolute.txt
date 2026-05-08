@@ -1,0 +1,11 @@
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\bin\Debug\SQL_FORM.exe.config
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\bin\Debug\SQL_FORM.exe
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\bin\Debug\SQL_FORM.pdb
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.csproj.AssemblyReference.cache
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.Properties.Resources.resources
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.csproj.GenerateResource.cache
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.exe
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.pdb
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.exe.config
+C:\Users\kadir\OneDrive\Desktop\SQL\SQL_FORM\obj\Debug\SQL_FORM.Form1.resources
